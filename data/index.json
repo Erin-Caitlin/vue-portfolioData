@@ -7,7 +7,7 @@
     "experiences": [
         {
             "id": 1,
-            "school": "Life Choices Academy",
+            "company": "Life Choices Academy",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/LCA.png",
             "description": "Student at Life Choices Academy: 02 April 2024 - Present"
         },
@@ -25,7 +25,7 @@
         },
         {
             "id": 4,
-            "school": "Mondale High School",
+            "company": "Mondale High School",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/mondalehs.Array",
             "description": "Matriculated from Mondale High School in 2022"
         }
@@ -96,61 +96,61 @@
         {
             "project": "Keyboard",
             "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
-            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "Hosted": "https://keyboard-psi-three.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Keyboard.png"
         },
         {
             "project": "Calculator",
             "Github": "https://github.com/Erin-Caitlin/JScalculator.git",
-            "Vercel": "https://j-scalculator-beta.vercel.app/",
+            "Hosted": "https://j-scalculator-beta.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Calculator.png"
         },
         {
             "project": "Bootstrap Portfolio",
             "Github": "https://github.com/Erin-Caitlin/ErinsPortfolio.git",
-            "Vercel": "https://erins-portfolio.vercel.app/",
+            "Hosted": "https://erins-portfolio.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Bootstrap.png"
         },
         {
             "project": "Luminous Resin",
             "Github": "https://github.com/Erin-Caitlin/LuminousResin.git",
-            "Vercel": "https://luminousresin.vercel.app/",
+            "Hosted": "https://luminousresin.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Luminous-Resin.png"
         },
         {
             "project": "Temperature convertor",
             "Github": "https://github.com/Erin-Caitlin/Temperature-Converter.git",
-            "Vercel": "https://temperature-converter-umber.vercel.app/",
+            "Hosted": "https://temperature-converter-umber.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Temp.png"
         },
         {
             "project": "Swegga Fashion",
             "Github": "https://github.com/Erin-Caitlin/SweggaFashion.git",
-            "Vercel": "https://swegga-fashion.vercel.app/",
+            "Hosted": "https://swegga-fashion.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Swegga.png"
         },
         {
             "project": "BMI Calculator",
             "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
-            "Vercel": "https://bmi-calculator-sage-ten.vercel.app/",
+            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
         },
         {
             "project": "Ahava Lounge",
-            "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
-            "Vercel": "https://bmi-calculator-sage-ten.vercel.app/",
+            "Github": "https://github.com/Erin-Caitlin/AhavaLounge.git",
+            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
+        },
+        {
+            "project": "Wired",
+            "Github": "https://github.com/ntandomabuto/node-ecommerce.git",
+            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
         },
         {
             "project": "BMI Calculator",
             "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
-            "Vercel": "https://bmi-calculator-sage-ten.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
-        },
-        {
-            "project": "BMI Calculator",
-            "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
-            "Vercel": "https://bmi-calculator-sage-ten.vercel.app/",
+            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
         }
     ]
