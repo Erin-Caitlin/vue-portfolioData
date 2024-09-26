@@ -136,7 +136,7 @@
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
         },
         {
-            "project": "BMI Calculator",
+            "project": "Ahava Lounge",
             "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
             "Vercel": "https://bmi-calculator-sage-ten.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
@@ -152,6 +152,6 @@
             "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
             "Vercel": "https://bmi-calculator-sage-ten.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
-        },
+        }
     ]
 }
