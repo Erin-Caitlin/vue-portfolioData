@@ -1,0 +1,157 @@
+{
+    "about": [
+        {
+            "information": ["Here's a bit of background about myself: I graduated from Mondale High School in 2022, where I was first introduced to basic web development in Computer's Applications Technology. I received 99% in my last year of high school for our yearly Practical Assesment Task that included word documents, excel, database and designing an HTML website. Since then, my passion has driven me to pursue a career in software development.","Over the past year, I've obtained a certificate for completing a 3-day photography course through RAD (Rise Above Development) and worked as a Customer Advisor at Sigma Connected (23rd March 2023 - 1st April 2024). In my time working at Sigma Connected, I was able to develop communication and interpersonal skills, along with the ability to work alone and various teams. As a driven and honest individual, I always strive to excel in any task that comes my way.","Outside of my professional pursuits, I am a spiritual dancer with a lifelong passion, having started dancing in church at the age of 4 years old and attend the School of Esther, a monthly program that young girls can attend at church.","I am currently a student at Life Choices Academy where I am completing a coding course. While I'm still a beginner, I'm commited to continuous learning and growth in the field. My ultimate goal is to become a skilled developer and make a meangingful impact in the industry and I'm excited to see what the future holds."]
+        }
+    ],
+    "experiences": [
+        {
+            "id": 1,
+            "school": "Life Choices Academy",
+            "img_url": "https://erin-caitlin.github.io/all-images/portfolio/LCA.png",
+            "description": "Student at Life Choices Academy: 02 April 2024 - Present"
+        },
+        {
+            "id":2,
+            "company": "Sigma Connected",
+            "img_url": "https://erin-caitlin.github.io/all-images/portfolio/sigma-connected.webp",
+            "description": "Customer Advisor: March 2023 - April 2024"
+        },
+        {
+            "id": 3,
+            "company": "Rise Above Development",
+            "img_url": "https://erin-caitlin.github.io/all-images/portfolio/RAD.webp",
+            "description": "Certificate received for completing a 3-day photography course."
+        },
+        {
+            "id": 4,
+            "school": "Mondale High School",
+            "img_url": "https://erin-caitlin.github.io/all-images/portfolio/mondalehs.Array",
+            "description": "Matriculated from Mondale High School in 2022"
+        }
+    ],
+    "skills": [
+        {
+            "id":1,
+            "language":"HTML",
+            "name": "html5",
+            "color": "#e6b1ac"
+        },
+        {
+            "id":2,
+            "language":"CSS",
+            "name": "css3",
+            "color": "#e6b1ac"
+        },
+        {
+            "id":3,
+            "language":"Bootstrap",
+            "name": "bootstrap",
+            "color": "#e6b1ac"
+        },
+        {
+            "id": 4,
+            "language":"JavaScript",
+            "name": "javascript",
+            "color": "#e6b1ac"
+        },
+        {
+            "id":5,
+            "language":"Vue.JS",
+            "name": "vuejs",
+            "color": "#e6b1ac"
+        },
+        {
+            "id":6,
+            "language":"Github",
+            "name": "github",
+            "color": "#e6b1ac"
+        },
+        {
+            "id":7,
+            "language":"Node.js",
+            "name": "nodejs",
+            "color": "#e6b1ac"
+        },
+        {
+            "id":7,
+            "language":"MySQL",
+            "name": "mysql",
+            "color": "#e6b1ac"
+        },
+        {
+            "id":7,
+            "language":"Firebase",
+            "name": "firebase",
+            "color": "#e6b1ac"
+        },
+        {
+            "id":7,
+            "language":"Figma",
+            "name": "figma",
+            "color": "#e6b1ac"
+        }
+    ],
+    "projects": [
+        {
+            "project": "Keyboard",
+            "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
+            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Keyboard.png"
+        },
+        {
+            "project": "Calculator",
+            "Github": "https://github.com/Erin-Caitlin/JScalculator.git",
+            "Vercel": "https://j-scalculator-beta.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Calculator.png"
+        },
+        {
+            "project": "Bootstrap Portfolio",
+            "Github": "https://github.com/Erin-Caitlin/ErinsPortfolio.git",
+            "Vercel": "https://erins-portfolio.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Bootstrap.png"
+        },
+        {
+            "project": "Luminous Resin",
+            "Github": "https://github.com/Erin-Caitlin/LuminousResin.git",
+            "Vercel": "https://luminousresin.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Luminous-Resin.png"
+        },
+        {
+            "project": "Temperature convertor",
+            "Github": "https://github.com/Erin-Caitlin/Temperature-Converter.git",
+            "Vercel": "https://temperature-converter-umber.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Temp.png"
+        },
+        {
+            "project": "Swegga Fashion",
+            "Github": "https://github.com/Erin-Caitlin/SweggaFashion.git",
+            "Vercel": "https://swegga-fashion.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Swegga.png"
+        },
+        {
+            "project": "BMI Calculator",
+            "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
+            "Vercel": "https://bmi-calculator-sage-ten.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
+        },
+        {
+            "project": "BMI Calculator",
+            "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
+            "Vercel": "https://bmi-calculator-sage-ten.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
+        },
+        {
+            "project": "BMI Calculator",
+            "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
+            "Vercel": "https://bmi-calculator-sage-ten.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
+        },
+        {
+            "project": "BMI Calculator",
+            "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
+            "Vercel": "https://bmi-calculator-sage-ten.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
+        },
+    ]
+}
