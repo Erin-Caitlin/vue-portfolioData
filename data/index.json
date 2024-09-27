@@ -105,40 +105,28 @@
             "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/AhavaLounge.png"
         },
         {
-            "project": "Keyboard",
-            "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
-            "Hosted": "https://keyboard-psi-three.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Keyboard.png"
-        },
-        {
-            "project": "Calculator",
-            "Github": "https://github.com/Erin-Caitlin/JScalculator.git",
-            "Hosted": "https://j-scalculator-beta.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Calculator.png"
-        },
-        {
             "project": "Bootstrap Portfolio",
             "Github": "https://github.com/Erin-Caitlin/ErinsPortfolio.git",
             "Hosted": "https://erins-portfolio.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Bootstrap.png"
+            "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/BootstrapPortfolio.png"
         },
         {
             "project": "Luminous Resin",
             "Github": "https://github.com/Erin-Caitlin/LuminousResin.git",
             "Hosted": "https://luminousresin.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Luminous-Resin.png"
+            "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/LuminousResin.png"
         },
         {
             "project": "Temperature convertor",
             "Github": "https://github.com/Erin-Caitlin/Temperature-Converter.git",
             "Hosted": "https://temperature-converter-umber.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Temp.png"
+            "imgUrl": "https://erin-caitlin.github.io/all-images/"
         },
         {
             "project": "Swegga Fashion",
             "Github": "https://github.com/Erin-Caitlin/SweggaFashion.git",
             "Hosted": "https://swegga-fashion.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Swegga.png"
+            "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/SweggaFashion.png"
         }
     ]
 }
