@@ -15,7 +15,7 @@
             "id":2,
             "company": "Sigma Connected",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/sigma-connected.webp",
-            "description": "Customer Advisor: March 2023 - April 2024"
+            "description": "Customer Advisor: March 2023 - April 2024. "
         },
         {
             "id": 3,
@@ -76,8 +76,7 @@
         {
             "id":7,
             "language":"MySQL",
-            "name": "mysql",
-            "color": "#e6b1ac"
+            "image": ""
         },
         {
             "id":7,
@@ -139,13 +138,13 @@
             "project": "Ahava Lounge",
             "Github": "https://github.com/Erin-Caitlin/AhavaLounge.git",
             "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
+            "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/AhavaLounge.png"
         },
         {
             "project": "Wired",
             "Github": "https://github.com/ntandomabuto/node-ecommerce.git",
             "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
+            "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/Node_ecommerce.png"
         },
         {
             "project": "BMI Calculator",
