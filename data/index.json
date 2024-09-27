@@ -93,6 +93,18 @@
     ],
     "projects": [
         {
+            "project": "Wired",
+            "Github": "https://github.com/ntandomabuto/node-ecommerce.git",
+            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/Node_ecommerce.png"
+        },
+        {
+            "project": "Ahava Lounge",
+            "Github": "https://github.com/Erin-Caitlin/AhavaLounge.git",
+            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/AhavaLounge.png"
+        },
+        {
             "project": "Keyboard",
             "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
             "Hosted": "https://keyboard-psi-three.vercel.app/",
@@ -127,30 +139,6 @@
             "Github": "https://github.com/Erin-Caitlin/SweggaFashion.git",
             "Hosted": "https://swegga-fashion.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Swegga.png"
-        },
-        {
-            "project": "BMI Calculator",
-            "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
-            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
-        },
-        {
-            "project": "Ahava Lounge",
-            "Github": "https://github.com/Erin-Caitlin/AhavaLounge.git",
-            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/AhavaLounge.png"
-        },
-        {
-            "project": "Wired",
-            "Github": "https://github.com/ntandomabuto/node-ecommerce.git",
-            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/Node_ecommerce.png"
-        },
-        {
-            "project": "BMI Calculator",
-            "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
-            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
         }
     ]
 }
