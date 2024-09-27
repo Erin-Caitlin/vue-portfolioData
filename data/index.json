@@ -60,13 +60,7 @@
             "language":"Vue.JS",
             "name": "vuejs",
             "color": "#e6b1ac"
-        },
-        {
-            "id":6,
-            "language":"Github",
-            "name": "github",
-            "color": "#e6b1ac"
-        },
+        }
         {
             "id":7,
             "language":"Node.js",
@@ -82,12 +76,6 @@
             "id":7,
             "language":"Firebase",
             "name": "firebase",
-            "color": "#e6b1ac"
-        },
-        {
-            "id":7,
-            "language":"Figma",
-            "name": "figma",
             "color": "#e6b1ac"
         }
     ],
