@@ -62,7 +62,7 @@
             "color": "#e6b1ac"
         },
         {
-            "id":7,
+            "id":6,
             "language":"Node.js",
             "name": "nodejs",
             "color": "#e6b1ac"
@@ -73,7 +73,7 @@
             "image": "https://erin-caitlin.github.io/all-images/"
         },
         {
-            "id":7,
+            "id":8,
             "language":"Firebase",
             "name": "firebase",
             "color": "#e6b1ac"
