@@ -94,13 +94,13 @@
         {
             "project": "Wired",
             "Github": "https://github.com/ntandomabuto/node-ecommerce.git",
-            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
+            "Hosted": "https://nodeecommerce-b56c3.web.app/",
             "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/Node_ecommerce.png"
         },
         {
             "project": "Ahava Lounge",
             "Github": "https://github.com/Erin-Caitlin/AhavaLounge.git",
-            "Hosted": "https://bmi-calculator-sage-ten.vercel.app/",
+            "Hosted": "https://ahavalounge.web.app/",
             "imgUrl": "https://erin-caitlin.github.io/all-images/VuePortfolio/AhavaLounge.png"
         },
         {
