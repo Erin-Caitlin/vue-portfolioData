@@ -88,7 +88,31 @@
             "language":"Firebase",
             "name": "firebase",
             "color": "#e6b1ac"
-        }
+        },
+        {
+            "id":8,
+            "language":"Canva",
+            "name": "canva",
+            "color": "#e6b1ac"
+        },
+        {
+            "id":8,
+            "language":"Figma",
+            "name": "figma",
+            "color": "#e6b1ac"
+        },
+        {
+            "id":8,
+            "language":"Github",
+            "name": "github",
+            "color": "#e6b1ac"
+        },
+        {
+            "id":8,
+            "language":"Wordpress",
+            "name": "wordpress",
+            "color": "#e6b1ac"
+        },
     ],
     "projects": [
         {
