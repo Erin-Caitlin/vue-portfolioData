@@ -28,13 +28,6 @@
         },
         {
             "id": 4,
-            "company": "Rise Above Development",
-            "img_url": "https://erin-caitlin.github.io/all-images/portfolio/RAD.webp",
-            "year": "March 2023",
-            "description": "Certificate received for completing a 3-day photography course."
-        },
-        {
-            "id": 5,
             "company": "Mondale High School",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/Mondale.png",
             "year": "January 2018 - December 2022",
